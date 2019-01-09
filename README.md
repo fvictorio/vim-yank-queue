@@ -1,6 +1,6 @@
 # vim-yank-queue
 
-Yank pieces of text and paste them in the same order than you copied them.
+Yank pieces of text and paste them in the same order in which you copied them.
 
 ## Example
 
