@@ -30,7 +30,7 @@ lets you do it like this:
 Use one of the hundred of methods that exist to install a vim plugin. I recommend [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```
-Plug 'fvictorio/vim-extract-variable'
+Plug 'fvictorio/vim-yank-queue'
 ```
 
 ## Mappings
